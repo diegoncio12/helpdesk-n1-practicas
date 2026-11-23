@@ -1,4 +1,4 @@
-#Helpdesk N1 | Laboratorio de soporte técnico
+Helpdesk N1 | Laboratorio de soporte técnico
 
 Portfolio práctico orientado al aprendizaje y documentación de procedimientos de soporte técnico, administración de sistemas y resolución de incidencias informáticas.
 
