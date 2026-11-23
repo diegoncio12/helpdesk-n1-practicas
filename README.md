@@ -1,15 +1,16 @@
-Helpdesk N1 | Laboratorio de soporte técnico
+# 🖥️ Helpdesk N1 | Laboratorio de soporte técnico
 
-Portfolio práctico orientado al aprendizaje y documentación de procedimientos de soporte técnico, administración de sistemas y resolución de incidencias informáticas.
+> Portfolio práctico de soporte técnico, administración de sistemas y resolución de incidencias informáticas.
 
-Objetivos
+Este repositorio recoge diferentes escenarios prácticos simulados para desarrollar habilidades de diagnóstico, resolución de problemas y atención al usuario en un entorno IT.
 
-Practicar el diagnóstico y resolución de incidencias de nivel 1.
+---
 
-Aprender a identificar causas raíz de problemas informáticos.
+## 🎯 Objetivos
 
-Documentar procedimientos técnicos y comandos utilizados.
-
-Familiarizarme con herramientas de administración de redes y sistemas.
-
-Desarrollar habilidades de soporte al usuario y escalado de incidencias.
+- Diagnosticar y resolver incidencias de nivel 1.
+- Identificar las causas raíz de los problemas.
+- Utilizar herramientas de diagnóstico de Windows y Linux.
+- Comprender los fundamentos de redes y conectividad.
+- Documentar procedimientos técnicos y soluciones.
+- Aprender cuándo y cómo escalar una incidencia.
